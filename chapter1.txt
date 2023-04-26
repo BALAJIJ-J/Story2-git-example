@@ -1,1 +1,3 @@
 Story started.
+Story goes.
+Story ends.
